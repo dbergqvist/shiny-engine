@@ -12,3 +12,4 @@ This is a practice repository
 - These are bullet points
 
 **This is markdown**
+# git practice
